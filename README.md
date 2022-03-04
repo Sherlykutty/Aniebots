@@ -30,7 +30,7 @@
 ------
 ## Status Of Bot 
 <p align="left">Anieteam/Aniebots
-    <a href="https://github.com/Anieteam/Aniebots/network/members"><img src="https://img.shields.io/github/forks/Anieteam/Aniebots?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Anieteam/Aniebots/stargazers"><img src="https://img.shields.io/github/stars/Anieteam/Aniebots?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/"></a><p align="left"><a href="https://github.com/Anieteam/Aniebots?"></a>
+    <a href="https://github.com/Anieteam/Aniebots/network/members"><img src="https://img.shields.io/github/forks/Anieteam/Aniebots?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Sherlykutty/Aniebots/stargazers"><img src="https://img.shields.io/github/stars/Anieteam/Aniebots?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/"></a><p align="left"><a href="https://github.com/Anieteam/Aniebots?"></a>
 
 ------
 ## Telegram 🏪
